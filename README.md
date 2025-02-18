@@ -40,8 +40,9 @@ Cloud Security | High Availability Systems | Infrastructure-as-Code (IaC)
 
 ## 💡 Current Focus
 - Expanding expertise in Kubernetes for cloud-native solutions
-- Exploring generative AI applications in enterprise environments
+- Exploring generative AI applications in enterprise environments & IoT
 - Optimizing MLOps workflows
+- Building, Training & Deploying ML models on Amazon Sagemaker
 
 ## 🤝 Collaboration Opportunities
 I'm particularly interested in collaborating on:
