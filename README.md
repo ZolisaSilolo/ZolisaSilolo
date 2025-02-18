@@ -51,7 +51,7 @@ I'm particularly interested in collaborating on:
 -Let's Explore the IoT Industry and breed impactful solutions
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lundi-zolisa-s-144922163/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2cT%2B6CHIQsWvRkQw79hTqQ%3D%3D)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zolisasilolo@gmail.com)
 
 ## ⚡ Fun Fact
