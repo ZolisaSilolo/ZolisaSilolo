@@ -56,5 +56,5 @@ I'm particularly interested in collaborating on:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zolisasilolo@gmail.com)
 
 ## ⚡ Fun Fact
-I once trained a machine learning model to predict coffee preferences ☕➡️🤖
+I play with other clouds to see which one is dense🌤️🌨️⛈️➡️🤖
 
