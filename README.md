@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a dual AWS-certified (Cloud Practitioner & AI Practitioner) technical professional with hands-on experience in:
+I'm a x3 AWS-certified (Solutions Architect-Associate, Cloud Practitioner & AI Practitioner) technical professional with hands-on experience in:
 - Designing secure, scalable cloud architectures ☁️
 - Implementing big data solutions 📊
 - Building MLOps pipelines with Amazon SageMaker 🤖
