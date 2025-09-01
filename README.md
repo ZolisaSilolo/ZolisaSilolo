@@ -2,7 +2,7 @@
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange)](https://www.credly.com)
 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-orange)](https://www.credly.com)
-[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-purple)](https://www.credly.com)
+[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-blue)](https://www.credly.com)
 
 **Cloud-Native Data Science Solutions Architect** | **AI/MLOps Specialist** | **Big Data Evangelist**
 
