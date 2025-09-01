@@ -33,10 +33,15 @@ Big Data Technologies | Machine Learning Operations (MLOps) | Data Analytics
 Cloud Security | High Availability Systems | Infrastructure-as-Code (IaC)
 
 ## 📜 Certifications
+- AWS Certified Solutions Architect Associate
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner
 - Lean Six Sigma Ai White Belt
 - AWS Well-Architected Proficient
+- AWS Knowledge: Serverless
+- AWS Knowledge: Events & Workflows
+- AWS Partner:Technical Accredited
+- AWS Partner: Generative AI Essentials (Business skill)
 - IBM Machine Learning Specialist-Associate
 
 ## 💡 Current Focus
