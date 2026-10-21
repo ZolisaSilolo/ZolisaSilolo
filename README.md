@@ -68,11 +68,29 @@ I love working as a **forward-deployed builder** because it forces you to look p
 
 ---
 
-### 🕹️ Interactive Session
+### 🕹️ Interactive Terminal Session
 
-```bash
-guest@lundi-terminal ~ % ./vibe-check.sh
-> Status: Fueled by curiosity, strong coffee, and late-night terminal sessions. ☕⚡
+> **`guest@lundi-terminal`** ~ % `./vibe-check.sh`
+> ```bash
+> [████████████████████] 100% | System Status: Fully operational
+> ⚡ Fuel Source : Strong coffee, terminal commands, & late-night curiosity
+> 🧠 Mindset   : Forward-deployed, customer-obsessed, & allergic to bloat
+> ```
 
-guest@lundi-terminal ~ % cat ./invitation.txt
-> "Working on something interesting? Drop me a line. Whether it's distributed systems, edge Linux, messy data, or just building cool software—let's build something great."
+> **`guest@lundi-terminal`** ~ % `cat ./invitation.txt`
+> ```text
+> "Working on something interesting? Drop me a line. Whether it's 
+> distributed systems, edge Linux, messy data, or just building weird 
+> things with code—let's build something great together."
+> ```
+
+<div align="center">
+
+  <br>
+
+  **[🌐 zolisasilolo.co.za](https://zolisasilolo.co.za)** &nbsp;•&nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/lundi-zolisa-s-144922163/)** &nbsp;•&nbsp; **[✉️ zolisasilolo@gmail.com](mailto:zolisasilolo@gmail.com)**
+
+  <br>
+  <sub>⚡ <i>"Always be curious. Always check the logs."</i></sub>
+
+</div>
