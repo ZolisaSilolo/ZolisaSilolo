@@ -1,21 +1,21 @@
 <div align="center">
 
   <!-- TERMINAL BANNER -->
-  <a href="[https://zolisasilolo.co.za](https://zolisasilolo.co.za)">
-    <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=false&width=750&height=60&lines=%24+ssh+lundi%40edge-runtime+--sys-info](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=false&width=750&height=60&lines=%24+ssh+lundi%40edge-runtime+--sys-info)" alt="Terminal Typing SVG" />
+  <a href="https://zolisasilolo.co.za">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=false&width=780&height=60&lines=%24+git+commit+-m+%22shipping+stuff+that+actually+matters%22" alt="Terminal Typing SVG" />
   </a>
 
   <p align="center">
-    <code>[root@lundi ~]# Building resilient event loops, self-healing edge nodes, and autonomous cloud runtimes.</code>
+    <code>[root@lundi ~]# Curiosity-driven engineering. Building resilient systems from the metal up.</code>
   </p>
 
-  <!-- REPO & CONTACT LINKS -->
+  <!-- QUICK LINKS -->
   <p align="center">
     <a href="https://zolisasilolo.co.za">
       <img src="https://img.shields.io/badge/🌐_PORTFOLIO-zolisasilolo.co.za-00FF66?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
     </a>
     <a href="https://www.credly.com/users/lundi-zolisa-silolo">
-      <img src="https://img.shields.io/badge/🏅_CREDLY_VAULT-Badges-00A88F?style=for-the-badge&labelColor=0D1117" alt="Credly" />
+      <img src="https://img.shields.io/badge/🏅_CREDLY-Badges-00A88F?style=for-the-badge&labelColor=0D1117" alt="Credly" />
     </a>
     <a href="https://www.linkedin.com/in/lundi-zolisa-s-144922163/">
       <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
@@ -29,31 +29,29 @@
 
 ---
 
-### 💻 System & Engineering Profile (`lundi.sh`)
+### ☕ What Drives Me
 
-> **Archetype:** Systems generalist who refuses to stay inside a single technical silo.  
-> **Core Focus:** Serverless event-driven backends, resource-constrained Linux edge, and agentic AI runtimes.  
-> **Philosophy:** Good engineering isn't just about writing clean code—it's understanding how latency, compute economics, and distributed failure modes intersect in the real world.
+I've never been a fan of staying in a single lane. To me, engineering is about following curiosity wherever it leads—whether that means tearing down a Linux kernel setup to see how it ticks, writing PySpark pipelines that make messy data behave, or deploying lightweight edge systems that just work when network connections drop.
 
----
-
-### 🧠 How I Think About Systems
-
-I spend my time bridging worlds that usually don't talk to each other: **low-resource hardware edge nodes** and **elastic cloud backends**. 
-
-* **The Edge & Low-Resource Constraints:** I like building things that survive real-world chaos—intermittent connectivity, restrictive firewalls, and tight hardware footprints (`<4GB RAM`). If a system can't handle a network drop without losing state or panicking, it isn't finished.
-* **Event-Driven & Serverless Plumbing:** I lean heavily on asynchronous, decoupled architectures (`EventBridge`, `Lambda`, `DynamoDB`). No idle compute, no unnecessary servers—just state transitions firing when things actually happen.
-* **AI as Infrastructure, Not a Gimmick:** I'm less interested in hype and more interested in how autonomous agents, RAG, and local model orchestration can actually automate boring infrastructure toil and speed up developer velocity.
-* **The Economics Behind the Code:** Because of my background bridging technical design with economics and market structures, I always look at code through the lens of unit economics, data transfer costs, and long-term TCO. 
+I love working as a **forward-deployed builder** because it forces you to look past abstract diagrams and care about the actual human on the other end of the screen. If software doesn't make someone's life easier or solve a real pain point, what's the point?
 
 ---
 
-### 🛠️ The Daily Toolkit
+### ⚡ How I Approach Problems
 
-* **OS & Shell:** Fedora Linux, Zsh, tmux, Vim, SSH
-* **Cloud Primitives:** AWS Serverless (Lambda, EventBridge, S3, DynamoDB), IAM & VPC Hardening, Infrastructure-as-Code
-* **Data & AI:** Python, PySpark, Advanced SQL, Amazon Bedrock, SageMaker MLOps
-* **Workflow & DevOps:** Terminal-centric CLI tooling, Docker, Git, Automated Local-First Testing
+* **Obsessed with the Real World:** Code looks great in a local container, but reality is messy. I build with failure modes, intermittent networks, and tight hardware constraints (`<4GB RAM`) in mind from day one.
+* **Driven by Curiosity:** I didn't learn this stuff by checking boxes; I learned it by breaking things, reading raw documentation, and tinkering until I understood the underlying mechanics. 
+* **The Intersection of Code & Economics:** Because of my background bridging technical design with economic structures, I can't look at infrastructure without wondering: *Is this cost-effective? Will this scale sustainably? What's the long-term TCO?*
+* **Pragmatic Tooling:** No unnecessary bloat. Just asynchronous event loops (`EventBridge`, `Lambda`, `DynamoDB`), clean Linux terminals (`Zsh`, `tmux`, `Vim`), and automation that gets out of the way.
+
+---
+
+### 🧰 Daily Drivers & Gear
+
+* **The Environment:** Fedora Linux, Zsh, tmux, Vim, SSH
+* **The Cloud & Backends:** AWS Serverless, IAM/VPC hardening, event-driven architectures
+* **The Data & AI Layer:** Python, PySpark, Advanced SQL, Amazon Bedrock, local model workflows
+* **The Workflow:** Terminal-first tooling, Docker, Git, local-first iteration
 
 <div align="center">
   <br>
@@ -62,32 +60,19 @@ I spend my time bridging worlds that usually don't talk to each other: **low-res
 
 ---
 
-### 🔬 What's on My Workbench Right Now
+### 🛠️ What’s Currently on My Desk
 
-* **Offline-First Terminal Assistants:** Tinkering with local model orchestration and CLI toolchains to keep development environments fast, decoupled, and entirely under my control.
-* **Self-Healing Observability Scripts:** Writing lightweight background daemons that parse cloud logs, spot anomalous metrics, and trigger automated fallback routines before things cascade.
-* **Data Pipelines & Storage Efficiency:** Cleaning up messy CSV/JSON streams, writing tight PySpark transformations, and structuring analytical layouts that don't hemorrhage money on S3 storage.
-
----
-
-### 📊 Terminal Telemetry
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZolisaSilolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00A88F" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZolisaSilolo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00A88F" alt="GitHub Streak" />
-</div>
+* **Offline-First Assistive Tooling:** Building lightweight terminal utilities and local model workflows to keep my dev loop fast and completely self-contained.
+* **Self-Healing Daemons:** Tinkering with background scripts that watch cloud logs, catch anomalies, and trigger safe automated fallbacks before things cascade.
+* **Streamlining Data Flow:** Wrangling messy data streams into clean, well-partitioned analytical layouts that don't hemorrhage money on storage.
 
 ---
 
-### 🔌 Ping My Inbound Port
+### 🕹️ Interactive Session
 
-If you want to talk about distributed systems, edge Linux configurations, messy data problems, or building weird things with code:
+```bash
+guest@lundi-terminal ~ % ./vibe-check.sh
+> Status: Fueled by curiosity, strong coffee, and late-night terminal sessions. ☕⚡
 
-<div align="center">
-
-  **[🌐 zolisasilolo.co.za](https://zolisasilolo.co.za)** &nbsp;•&nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/lundi-zolisa-s-144922163/)** &nbsp;•&nbsp; **[✉️ zolisasilolo@gmail.com](mailto:zolisasilolo@gmail.com)**
-
-  <br>
-  <sub>⚡ <i>"Keep Calm & Keep Building 🤗."</i></sub>
-
-</div>
+guest@lundi-terminal ~ % cat ./invitation.txt
+> "Working on something interesting? Drop me a line. Whether it's distributed systems, edge Linux, messy data, or just building cool software—let's build something great."
