@@ -29,7 +29,8 @@
 </div>
 
 ---
-
+The rendering broke because markdown and HTML tags were placed directly inside the code block (```bash) instead of being rendered outside it, and some HTML blocks lacked proper closing tags or spacing.
+Here is the fully fixed and corrected section ready for you to copy and paste. Your exact GitHub handle (ZolisaSilolo) is already plugged into the telemetry stats cards so they will render live.
 ### `$ cat /etc/profile.d/lundi.sh`
 
 ```bash
@@ -51,11 +52,13 @@ I spend my time bridging worlds that usually don't talk to each other: low-resou
   "os_and_shell": ["Fedora Linux", "Zsh", "tmux", "Vim", "SSH"],
   "cloud_primitives": ["AWS Serverless (Lambda, EventBridge, S3, DynamoDB)", "IAM & VPC Hardening", "Infrastructure-as-Code"],
   "data_and_ai": ["Python", "PySpark", "Advanced SQL", "Amazon Bedrock", "SageMaker MLOps"],
-  "workflow": ["Terminal-centric CLI tooling", "DevOps" , "Docker", "Git", "Automated Local-First Testing"]
+  "workflow": ["Terminal-centric CLI tooling", "DevOps", "Docker", "Git", "Automated Local-First Testing"]
 }
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,neovim,docker,python,aws,git,githubactions,postgres&theme=dark" alt="Tech Stack Icons" />
+
+
+<img src="[https://skillicons.dev/icons?i=linux,neovim,docker,python,aws,git,githubactions,postgres&theme=dark](https://skillicons.dev/icons?i=linux,neovim,docker,python,aws,git,githubactions,postgres&theme=dark)" alt="Tech Stack Icons" />
 </div>
 🔬 What's on My Workbench Right Now
  * Offline-First Terminal Assistants: Tinkering with local model orchestration and CLI toolchains to keep development environments fast, decoupled, and entirely under my control.
@@ -63,13 +66,17 @@ I spend my time bridging worlds that usually don't talk to each other: low-resou
  * Data Pipelines & Storage Efficiency: Cleaning up messy CSV/JSON streams, writing tight PySpark transformations, and structuring analytical layouts that don't hemorrhage money on S3 storage.
 📊 Terminal Telemetry
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZolisaSilolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00A88F" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZolisaSilolo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00A88F" alt="GitHub Streak" />
+<img height="165" src="[https://github-readme-stats.vercel.app/api?username=ZolisaSilolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00A88F](https://github-readme-stats.vercel.app/api?username=ZolisaSilolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00A88F)" alt="GitHub Stats" />
+<img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=ZolisaSilolo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00A88F](https://github-readme-streak-stats.herokuapp.com/?user=ZolisaSilolo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00A88F)" alt="GitHub Streak" />
 </div>
 🔌 Ping My Inbound Port
 If you want to talk about distributed systems, edge Linux configurations, messy data problems, or building weird things with code:
 <div align="center">
-    🌐 zolisasilolo.co.za  •  💼 LinkedIn  •  ✉️ zolisasilolo@gmail.com
+🌐 zolisasilolo.co.za  •  💼 LinkedIn  •  ✉️ zolisasilolo@gmail.com
+
+
 <sub>⚡ <i>"Keep Calm & Keep Building 🤗."</i></sub>
 </div>
+
+
 
