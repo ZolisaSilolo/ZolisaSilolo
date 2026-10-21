@@ -1,66 +1,75 @@
--# Hi there, I'm Lundi Zolisa Silolo 👋
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange)](https://www.credly.com)
-[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-orange)](https://www.credly.com)
-[![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-blue)](https://www.credly.com)
+<div align="center">
 
-**Cloud-Native Data Science Solutions Architect** | **AI/MLOps Specialist** | **Big Data Evangelist**
+  <!-- TERMINAL BANNER -->
+  <a href="https://zolisasilolo.co.za">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&multiline=false&width=750&height=60&lines=%24+ssh+lundi%40edge-runtime+--sys-info" alt="Terminal Typing SVG" />
+  </a>
 
-## 🚀 About Me
+  <p align="center">
+    <code>[root@lundi ~]# Building resilient event loops, self-healing edge nodes, and autonomous cloud runtimes.</code>
+  </p>
 
-I'm an AWS-certified (Solutions Architect-Associate, Cloud Practitioner & AI Practitioner) technical professional with hands-on experience in:
-- Designing secure, scalable cloud architectures ☁️
-- Implementing big data solutions 📊
-- Building MLOps pipelines with Amazon SageMaker 🤖
-- Developing cloud-native data science solutions �
+  <!-- REPO & CONTACT LINKS -->
+  <p align="center">
+    <a href="https://zolisasilolo.co.za">
+      <img src="https://img.shields.io/badge/🌐_PORTFOLIO-zolisasilolo.co.za-00FF66?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+    </a>
+    <a href="https://www.credly.com/users/lundi-zolisa-silolo">
+      <img src="https://img.shields.io/badge/🏅_CREDLY_VAULT-Badges-00A88F?style=for-the-badge&labelColor=0D1117" alt="Credly" />
+    </a>
+    <a href="https://www.linkedin.com/in/lundi-zolisa-s-144922163/">
+      <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+    </a>
+    <a href="mailto:zolisasilolo@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_MAIL-zolisasilolo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+    </a>
+  </p>
 
-I bridge the gap between complex business challenges and technological solutions through:
-- Strong communication skills 📣
-- Architectural best practices 🏗️
-- Continuous learning mindset 🧠
+</div>
 
-Pronouns: He/Him/His
+---
 
-## 🔧 Technical Expertise
+### `$ cat /etc/profile.d/lundi.sh`
 
-**Cloud Platforms**  
-AWS | Amazon SageMaker | Serverless Architectures
+```bash
+#!/usr/bin/env bash
+# Engineering Philosophy & Mental Models
 
-**Data & AI**  
-Big Data Technologies | Machine Learning Operations (MLOps) | Data Analytics
+export ARCHETYPE="Systems generalist who refuses to stay inside a single technical silo."
+export STACK_FOCUS="Serverless event-driven backends, resource-constrained Linux edge, and agentic AI runtimes."
+export CORE_BELIEF="Good engineering isn't just about writing clean code—it's understanding how latency, compute economics, and distributed failure modes intersect in the real world."
 
-**Core Skills**  
-Cloud Security | High Availability Systems | Infrastructure-as-Code (IaC)
+🧠 How I Think About Systems
+I spend my time bridging worlds that usually don't talk to each other: low-resource hardware edge nodes and elastic cloud backends.
+ * The Edge & Low-Resource Constraints: I like building things that survive real-world chaos—intermittent connectivity, restrictive firewalls, and tight hardware footprints (<4GB RAM). If a system can't handle a network drop without losing state or panicking, it isn't finished.
+ * Event-Driven & Serverless Plumbing: I lean heavily on asynchronous, decoupled architectures (EventBridge, Lambda, DynamoDB). No idle compute, no unnecessary servers—just state transitions firing when things actually happen.
+ * AI as Infrastructure, Not a Gimmick: I'm less interested in hype and more interested in how autonomous agents, RAG, and local model orchestration can actually automate boring infrastructure toil and speed up developer velocity.
+ * The Economics Behind the Code: Because of my background bridging technical design with economics and market structures, I always look at code through the lens of unit economics, data transfer costs, and long-term TCO.
+🛠️ The Daily Toolkit
+{
+  "os_and_shell": ["Fedora Linux", "Zsh", "tmux", "Vim", "SSH"],
+  "cloud_primitives": ["AWS Serverless (Lambda, EventBridge, S3, DynamoDB)", "IAM & VPC Hardening", "Infrastructure-as-Code"],
+  "data_and_ai": ["Python", "PySpark", "Advanced SQL", "Amazon Bedrock", "SageMaker MLOps"],
+  "workflow": ["Terminal-centric CLI tooling", "DevOps" , "Docker", "Git", "Automated Local-First Testing"]
+}
 
-## 📜 Certifications
-- AWS Certified Solutions Architect Associate
-- AWS Certified Cloud Practitioner
-- AWS Certified AI Practitioner
-- Lean Six Sigma Ai White Belt
-- AWS Well-Architected Proficient
-- AWS Knowledge: Serverless
-- AWS Knowledge: Events & Workflows
-- AWS Partner:Technical Accredited
-- AWS Partner: Generative AI Essentials (Business skill)
-- IBM Machine Learning Specialist-Associate
-
-## 💡 Current Focus
-- Expanding expertise in Kubernetes for cloud-native solutions
-- Exploring generative AI applications in enterprise environments & IoT
-- Optimizing MLOps workflows
-- Building, Training & Deploying ML models on Amazon Sagemaker
-
-## 🤝 Collaboration Opportunities
-I'm particularly interested in collaborating on:
-- Open source MLOps tools
-- Cloud optimization projects
-- AI for social good initiatives
--Let's Explore the IoT Industry and breed impactful solutions
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lundi-zolisa-s-144922163/overlay/contact-info/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2cT%2B6CHIQsWvRkQw79hTqQ%3D%3D)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zolisasilolo@gmail.com)
-
-## ⚡ Fun Fact
-I play with other clouds to see which one is dense🌤️🌨️⛈️➡️🤖
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,neovim,docker,python,aws,git,githubactions,postgres&theme=dark" alt="Tech Stack Icons" />
+</div>
+🔬 What's on My Workbench Right Now
+ * Offline-First Terminal Assistants: Tinkering with local model orchestration and CLI toolchains to keep development environments fast, decoupled, and entirely under my control.
+ * Self-Healing Observability Scripts: Writing lightweight background daemons that parse cloud logs, spot anomalous metrics, and trigger automated fallback routines before things cascade.
+ * Data Pipelines & Storage Efficiency: Cleaning up messy CSV/JSON streams, writing tight PySpark transformations, and structuring analytical layouts that don't hemorrhage money on S3 storage.
+📊 Terminal Telemetry
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZolisaSilolo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00A88F" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZolisaSilolo&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00A88F" alt="GitHub Streak" />
+</div>
+🔌 Ping My Inbound Port
+If you want to talk about distributed systems, edge Linux configurations, messy data problems, or building weird things with code:
+<div align="center">
+    🌐 zolisasilolo.co.za  •  💼 LinkedIn  •  ✉️ zolisasilolo@gmail.com
+<sub>⚡ <i>"Keep Calm & Keep Building 🤗."</i></sub>
+</div>
 
